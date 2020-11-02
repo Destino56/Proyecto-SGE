@@ -3,3 +3,4 @@ ALMACÉN
 	-Escandallos: https://wireframe.cc/CduOkd
 	-VENTAS:https://wireframe.cc/F9V2dm 
 	-COMPRAS:https://wireframe.cc/aTErtU
+	-comprobaciones si funciona
